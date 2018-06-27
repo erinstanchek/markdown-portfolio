@@ -4,3 +4,4 @@
 <p>
     <em>I am a 34 year old professional living in Northern New Jersey</em>
 </p>
+    <em>I invite you to view my linkedin profile: www.linkedin.com/in/erinstanchek
